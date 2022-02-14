@@ -39,7 +39,12 @@
       "KS-3-Red": { "part": "KS-3-Red", "name": "KS-3 Red Axis (red)", "feel": "linear", "weight": 45 },
       "KS-3-Tea": { "part": "KS-3-Tea", "name": "KS-3 Tea Axis (brown)", "feel": "tactile", "weight": 45 },
       "KS-3-Yellow": { "part": "KS-3-Yellow", "name": "KS-3 Yellow (yellow)", "feel": "linear", "weight": 50 },
-      "KS-3-White": { "part": "KS-3-White", "name": "KS-3 White Shaft (translucent white)", "feel": "linear", "weight": 35 }
+      "KS-3-White": { "part": "KS-3-White", "name": "KS-3 White Shaft (translucent white)", "feel": "linear", "weight": 35 },
+      "Ink-V2-Black": { "parts": "Ink-V2-Black", "name": "Ink Black V2", "feel": "linear", "weight": 60 },
+      "Ink-V2-Red": { "parts": "Ink-V2-Red", "name": "Ink Red V2", "feel": "linear", "weight": 45 },
+      "Ink-V2-Yellow": { "parts": "Ink-V2-Yellow", "name": "Ink Yellow V2", "feel": "linear", "weight": 60 },
+      "Ink-V2-Blue": { "parts": "Ink-V2-Blue", "name": "Ink Blue V2", "feel": "clicky", "weight": 75 },
+      "Ink-V2-Black-Silent": { "parts": "Ink-V2-Black-Silent", "name": "Ink Black V2 (Silent)", "feel": "linear", "weight": 60 }
     }},
     "greetech": { "brand": "greetech", "name": "Greetech (Huizhou Greetech Electronics Co.)", "switches": {
       "GT02A1Exx": { "part": "GT02A1Exx", "name": "GT02 Red stem", "feel": "linear", "weight": 45 },
@@ -65,6 +70,51 @@
     "razor": { "brand": "razor", "name": "Razor Inc.", "switches": {
       "Green": { "part": "Green", "name": "Razor Green", "feel": "clicky", "weight": 50 },
       "Orange": { "part": "Orange", "name": "Razor Orange", "feel": "tactile", "weight": 45 }
+    }},
+    "zeal": { "brand": "zeal", "name": "ZealPC", "switches": {
+      "Zealio-62g": { "part": "Zealio-62g", "name": "Zealio™ V2 (62g)", "feel": "tactile", "weight": 60 },
+      "Zealio-65g": { "part": "Zealio-65g", "name": "Zealio™ V2 (65g)", "feel": "tactile", "weight": 65 },
+      "Zealio-67g": { "part": "Zealio-67g", "name": "Zealio™ V2 (67g)", "feel": "tactile", "weight": 65 },
+      "Zealio-78g": { "part": "Zealio-78g", "name": "Zealio™ V2 (78g)", "feel": "tactile", "weight": 75 },
+      "Zilent-62g": { "part": "Zilent-62g", "name": "Zilent™ V2 (62g)", "feel": "tactile", "weight": 60 },
+      "Zilent-65g": { "part": "Zilent-65g", "name": "Zilent™ V2 (65g)", "feel": "tactile", "weight": 65 },
+      "Zilent-67g": { "part": "Zilent-67g", "name": "Zilent™ V2 (67g)", "feel": "tactile", "weight": 65 },
+      "Zilent-78g": { "part": "Zilent-78g", "name": "Zilent™ V2 (78g)", "feel": "tactile", "weight": 75 },
+      "Tealio": { "part": "Tealio", "name": "Tealio™ V2", "feel": "linear", "weight": 65 },
+      "Sakurio": { "part": "Sakurio", "name": "Sakurio™", "feel": "linear", "weight": 60 },
+      "Roselio": { "part": "Roselio", "name": "Rosélio™", "feel": "linear", "weight": 65 },
+      "Healio": { "part": "Healio", "name": "Healio™", "feel": "linear", "weight": 60 },
+      "Clickiez-40g": { "part": "Clickiez-40g", "name": "Clickiez™ (40g)", "feel": "clicky", "weight": 40 },
+      "Clickiez-75g": { "part": "Clickiez-75g", "name": "Clickiez™ (75g)", "feel": "clicky", "weight": 75 }
+    }},
+    "tecsee": { "brand": "tecsee", "name": "Tecsee", "switches": {
+      "Singularity": { "part": "Singularity", "name": "GMK CT Singularity", "feel": "linear", "weight": 65 },
+      "Ice-Candy": { "part": "Ice-Candy", "name": "Tecsee Ice Candy", "feel": "linear", "weight": 60 },
+      "Sapphire": { "part": "Sapphire", "name": "Tecsee Sapphire", "feel": "tactile", "weight": 60 },
+      "Ruby": { "part": "Ruby", "name": "Tecsee Ruby", "feel": "linear", "weight": 60 },
+      "Carrot": { "part": "Carrot", "name": "Tecsee Carrot", "feel": "linear", "weight": 65 },
+      "Coral": { "part": "Coral", "name": "Tecsee Coral", "feel": "tactile", "weight": 65 },
+      "Purple-Panda": { "part": "Purple-Panda", "name": "Tecsee Purple Panda", "feel": "tactile", "weight": 65 }
+    }},
+    "everglide": { "brand": "everglide", "name": "Everglide", "switches": {
+      "aqua-king-55g": { "part": "aqua-king-55g", "name": "Aqua King (55g)", "feel": "linear", "weight": 55 },
+      "aqua-king-62g": { "part": "aqua-king-62g", "name": "Aqua King (62g)", "feel": "linear", "weight": 60 },
+      "aqua-king-67g": { "part": "aqua-king-67g", "name": "Aqua King (67g)", "feel": "linear", "weight": 65 }
+    }},
+    "tkc": { "brand": "tkc", "name": "TKC", "switches": {
+      "Tangerine-Dark": { "part": "Tangerine-Dark", "name": "C³Equalz X TKC Tangerine (Dark Green V2)", "feel": "linear", "weight": 65 },
+      "Tangerine-Light": { "part": "Tangerine-Light", "name": "C³Equalz X TKC Tangerine (Light Green V2)", "feel": "linear", "weight": 60 },
+      "Banana-Split": { "part": "Banana-Split", "name": "C³Equalz X TKC Banana Split", "feel": "linear", "weight": 60 }
+    }},
+    "primekb": { "brand": "primekb", "name": "PrimeKB", "switches": {
+      "Alpaca": { "part": "Alpaca", "name": "PrimeKB Alpaca (V2)", "feel": "linear", "weight": 60 }
+    }},
+    "novelkeys": { "brand": "novelkeys", "name": "NovelKeys", "switches": {
+      "Cream": { "part": "Cream", "name": "NovelKeys Cream", "feel": "linear", "weight": 55 }
+    }},
+    "gazzew": { "brand": "gazzew", "name": "Gazzew", "switches": {
+      "Boba-62g": { "part": "Boba-62g", "name": "Gazzew U4T Boba (62g)", "feel": "tactile", "weight": 60 },
+      "Boba-68g": { "part": "Boba-68g", "name": "Gazzew U4T Boba (68g)", "feel": "tactile", "weight": 65 }
     }}
   }},
   "alps": { "mount": "alps", "name": "Alps Mount", "brands": {
